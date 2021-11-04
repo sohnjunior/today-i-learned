@@ -190,6 +190,20 @@ Vue 소스를 찾아보니 `updateComponent` 를 통해 컴포넌트 상태 업�
 
 따라서 삭제된 인스턴스의 속성들에 접근할 수 없습니다.
 
+## 부모와 자식의 라이프사이클 관계
+
+![34](https://user-images.githubusercontent.com/37819666/140364601-fa187593-a388-45b1-8ed2-fd6d35abdc75.png)
+
+
+부모와 자식의 관계에서는 라이프 사이클 훅이 약간 다르게 동작합니다.
+
+- 먼저 부모의 `beforeCreate` 와 `created` 훅이 호출됩니다.
+- 부모의 template 이 렌더링되기 시작하고 이는 자식 컴포넌트들이 생성된다는 의미입니다.
+- 자식 컴포넌트들의 `beforeCreate` 와 `created` 훅이 각각 호출됩니다.
+- 자식 컴포넌트들이 DOM 에 마운트되며, `beforeMount` 와 `mounted` 가 호출됩니다.
+- 자식 컴포넌트들이 모두 마운트되면, 부모 컴포넌트의 `beforeMount` 와 `mounted` 가 호출됩니다.
+
+
 ## 참고자료
 
 [Vue 인스턴스 - Vue.js](https://kr.vuejs.org/v2/guide/instance.html)
@@ -199,3 +213,5 @@ Vue 소스를 찾아보니 `updateComponent` 를 통해 컴포넌트 상태 업�
 [Vue 라이프사이클 이해하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2018/12/29/Understanding-Vue-Lifecycle-hooks.html)
 
 [Instance Lifecycle | Cracking Vue.js](https://joshua1988.github.io/vue-camp/vue/life-cycle.html#%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)
+
+[Order of lifecycle hooks for parent and child](https://forum.vuejs.org/t/order-of-lifecycle-hooks-for-parent-and-child/6681)
