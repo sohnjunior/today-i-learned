@@ -4,8 +4,8 @@
 블로그에 올리기 전 거쳐가는 저장소이기도 합니다.
 
 ## TypeScript
-[enum vs const enum](https://github.com/sohnjunior/TIL-Note/blob/main/typescript/enum.md)
-[유틸리티 타입에 대해서](https://github.com/sohnjunior/TIL-Note/blob/main/typescript/utility-types.md)
+* [enum vs const enum](https://github.com/sohnjunior/TIL-Note/blob/main/typescript/enum.md)
+* [유틸리티 타입에 대해서](https://github.com/sohnjunior/TIL-Note/blob/main/typescript/utility-types.md)
 
 ## Vue
 * [vue 컴포넌트에서 비동기 요청은 언제 하는 것이 좋을까?](https://github.com/sohnjunior/TIL-Note/blob/main/vue/issues/async-lifecycle.md)
