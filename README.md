@@ -26,6 +26,10 @@
 ## JavaScript
 * [익명함수와 기명함수, 언제 써야할까?](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/anonymous-named-function.md)
 
+### You Don't Know JS
+* [ch.1 타입]()
+* [ch.2 값]()
+
 ## Web Fundamental
 * [tree shaking](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/tree-shaking.md)
 * [svn 을 이용한 형상관리 - part 1](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/svn-part-one.md)
