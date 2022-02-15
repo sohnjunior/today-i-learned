@@ -1,13 +1,13 @@
-# Web-TIL
+# Today I Learned Note
 매일 공부한 내용을 정리하는 곳입니다.  
 몇가지 주제는 오랫동안 찾아보기도 합니다. 😄  
 블로그에 올리기 전 거쳐가는 저장소이기도 합니다.
 
-## TypeScript
+## 📌 TypeScript
 * [enum vs const enum](https://github.com/sohnjunior/TIL-Note/blob/main/typescript/enum.md)
 * [유틸리티 타입에 대해서](https://github.com/sohnjunior/TIL-Note/blob/main/typescript/utility-types.md)
 
-## Vue
+## 📌 Vue
 * [vue 컴포넌트에서 비동기 요청은 언제 하는 것이 좋을까?](https://github.com/sohnjunior/TIL-Note/blob/main/vue/issues/async-lifecycle.md)
 * [Lazy Loading & Code Splitting With Vue.js](https://github.com/sohnjunior/TIL-Note/blob/main/vue/performance/lazy%20loading.md)
 * [Lazy Loading & Prefetching with Vue Component](https://github.com/sohnjunior/TIL-Note/blob/main/vue/performance/lazy%20loading%20and%20prefetching.md)
@@ -23,14 +23,15 @@
 * [v-model의 동작 원리와 @Model 데코레이터 사용법](https://github.com/sohnjunior/TIL-Note/blob/main/vue/features/v-model.md)
 * [Vue 에서 mixin을 사용할 때 어떤 스타일로 작성하는 것이 좋을까?](https://github.com/sohnjunior/TIL-Note/blob/main/vue/features/vue%20mixin.md)
 
-## JavaScript
+## 📌 JavaScript
 * [익명함수와 기명함수, 언제 써야할까?](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/anonymous-named-function.md)
+* [Promise.all vs Promise.allSettled](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/promise-all-and-settled.md)
 
-### You Don't Know JS
+### 📚 You Don't Know JS
 * [ch.1 타입](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-1.md)
 * [ch.2 값](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-2.md)
 * [ch.3 네이티브](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-3.md)
 
-## Web Fundamental
+## 📌 Web Fundamental
 * [tree shaking](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/tree-shaking.md)
 * [svn 을 이용한 형상관리 - part 1](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/svn-part-one.md)
