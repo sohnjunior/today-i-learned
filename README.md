@@ -27,8 +27,9 @@
 * [익명함수와 기명함수, 언제 써야할까?](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/anonymous-named-function.md)
 
 ### You Don't Know JS
-* [ch.1 타입]()
-* [ch.2 값]()
+* [ch.1 타입](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-1.md)
+* [ch.2 값](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-2.md)
+* [ch.3 네이티브](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-3.md)
 
 ## Web Fundamental
 * [tree shaking](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/tree-shaking.md)
