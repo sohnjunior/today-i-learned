@@ -252,9 +252,28 @@ export default Vue.extend({
 
 ### 함수형 컴포넌트 내부에서 자식 컴포넌트를 렌더링할 때 문제가 생깁니다.
 
-`template` 속성을 사용해서 함수형 컴포넌트를 구성한 뒤 
+다음과 같이 `template` 속성을 사용해서 함수형 컴포넌트를 구성한 뒤 
 
-자식 컴포넌트를 렌더링하려고 하면 문제가 생긴다고 합니다.
+자식 컴포넌트를 `import` 해서 렌더링하려고 하면 문제가 생긴다고 합니다.
+
+```tsx
+<template functional>
+  <div>
+    <some-children />
+  </div>
+</template>
+
+<script>
+import SomeChildren from "./SomeChildren"
+
+export default {
+  components: {
+    SomeChildren
+  }
+}
+</script>
+```
+
 
 이를 우회하는 방법으로 다음과 같이 컴포넌트를 주입해주는 방법을 사용하라고 제안하고 있습니다.
 
