@@ -43,3 +43,4 @@
 - [tree shaking](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/tree-shaking.md)
 - [svn 을 이용한 형상관리 - part 1](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/svn-part-one.md)
 - [svn 을 이용한 형상관리 - part 2](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/svn-part-two.md)
+- [프론트엔드 DDD 적용기](https://github.com/sohnjunior/TIL-Note/blob/main/web-fundamentals/ddd.md)
