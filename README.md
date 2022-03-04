@@ -26,6 +26,7 @@
 - [v-model의 동작 원리와 @Model 데코레이터 사용법](https://github.com/sohnjunior/TIL-Note/blob/main/vue/features/v-model.md)
 - [Vue 에서 mixin을 사용할 때 어떤 스타일로 작성하는 것이 좋을까?](https://github.com/sohnjunior/TIL-Note/blob/main/vue/features/vue%20mixin.md)
 - [Vue 에서 computed 속성 사용 시 주의할 점](https://github.com/sohnjunior/TIL-Note/blob/main/vue/issues/computed-warn.md)
+- [Vue 상태관리 3편](https://github.com/sohnjunior/TIL-Note/blob/main/vue/state-management/vuex-3.md)
 
 ## 📌 JavaScript
 
