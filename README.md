@@ -40,6 +40,7 @@
 - [ch.1 타입](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-1.md)
 - [ch.2 값](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-2.md)
 - [ch.3 네이티브](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-3.md)
+- [ch.4 강제변환](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-3.md)
 
 ## 📌 Web Fundamental
 
