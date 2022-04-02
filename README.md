@@ -12,6 +12,13 @@
 
 <br />
 
+## 📌 React
+
+- [제어 컴포넌트 vs 비제어 컴포넌트](https://github.com/sohnjunior/TIL-Note/blob/main/react/controlled-uncontrolled.md)
+- [Hook API](https://github.com/sohnjunior/TIL-Note/blob/main/react/why-hook.md)
+
+<br />
+
 ## 📌 Vue
 
 - [vue 컴포넌트에서 비동기 요청은 언제 하는 것이 좋을까?](https://github.com/sohnjunior/TIL-Note/blob/main/vue/issues/async-lifecycle.md)
