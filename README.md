@@ -56,8 +56,8 @@
   - [ch.1 타입](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-1.md)
   - [ch.2 값](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-2.md)
   - [ch.3 네이티브](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-3.md)
-  - [ch.4 강제변환](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-3.md)
-  - [part2 스코프와 클로저](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/part-2.md)
+  - [ch.4 강제변환](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-4.md)
+  - [ch.6 스코프와 클로저](https://github.com/sohnjunior/TIL-Note/blob/main/javascript/you-dont-know-js/chapter-6.md)
 
 <br />
 
