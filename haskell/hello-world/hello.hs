@@ -1,3 +1,4 @@
-main = putStrLn html
+import Html
 
-html = "<html><body>Hello, World!</body></html>"
+myhtml = html_ "Title" (append_ (h1_ "header") (append_ (p_ "paragraph 1") (p_ "paragraph 2")))
+main = putStrLn (render myhtml)
