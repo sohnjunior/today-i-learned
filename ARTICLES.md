@@ -1,4 +1,17 @@
-> 💡 좋은 글을 모아놓습니다.
+> 💡 도움이 될 만한 좋은 글들을 모아놓습니다.
+
+### 🎨 Frontend (css)
+
+- [좋은 transition 구현을 위한 10가지 팁](https://joshcollinsworth.com/blog/great-transitions)
+    - UX 관점에서 좋은 transition 이란? 에 관한 내용을 주로 담고 있는 글
+    - transition 성능을 위한 팁들 (`will-change` 속성, layout 을 유발하는 속성 피하기) 도 알려준다.
+
+
+### 📶 Network
+
+- [load-balancing 알고리즘](https://samwho.dev/load-balancing/)
+    - 다양한 로드밸런싱 알고리즘에 관한 소개글
+    - dynamic weight round robin, least-connection 등등의 방법을 시각적으로 확인할 수 있다.
 
 ### 🧪 Testing
 
