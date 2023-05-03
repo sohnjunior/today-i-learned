@@ -27,3 +27,6 @@
 - [당근페이 - 매일 배포하는 팀이 되는 여정, Feature Toggle 활용하기](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-2-feature-toggle-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-b52c4a1810cd)
     - Feature Toggle 로 유연한 배포 환경을 구축한 사례 분석글
 
+- [git diff 에서 범위 연산차 .., ... 차이](https://stackoverflow.com/questions/7251477/what-are-the-differences-between-double-dot-and-triple-dot-in-git-dif/46345364#46345364)
+     - trunk 배포가 아닌 경우에 유의하자. 누락되는 diff 가 발생할 수 있다.
+
