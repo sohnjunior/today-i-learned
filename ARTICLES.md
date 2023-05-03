@@ -1,5 +1,11 @@
 > 💡 도움이 될 만한 좋은 글들을 모아놓습니다.
 
+### 🏗 Frontend (Architecture)
+
+- [프론트엔드 개발에서 SOLID 원칙이란?](https://fe-developers.kakaoent.com/2023/230330-frontend-solid/)
+    - 프론트엔드 개발자의 관점에서 바라본 SOLID 원칙에 관한 글
+    - 실무에서 적용해봄직한 예제들로 SOLID 원칙을 소개한다.
+
 ### 🎨 Frontend (css)
 
 - [좋은 transition 구현을 위한 10가지 팁](https://joshcollinsworth.com/blog/great-transitions)
