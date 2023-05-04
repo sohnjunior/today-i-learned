@@ -1,5 +1,10 @@
 > 💡 도움이 될 만한 좋은 글들을 모아놓습니다.
 
+### 👨‍💻 React Tips
+
+- [state initialize pattern](https://kentcdodds.com/blog/the-state-initializer-pattern)
+  - 변하지 않아야하는 초기값과 이를 재설정하는 패턴에 관한 소소한 팁
+
 ### 🏗 Frontend (Architecture)
 
 - [프론트엔드 개발에서 SOLID 원칙이란?](https://fe-developers.kakaoent.com/2023/230330-frontend-solid/)
