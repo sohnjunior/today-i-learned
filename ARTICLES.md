@@ -6,6 +6,8 @@
   - 변하지 않아야하는 초기값과 이를 재설정하는 패턴에 관한 소소한 팁
 
 ### 🏗 Frontend (Architecture)
+- [합성 컴포넌트로 모달 구현하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
+    - 컴포넌트 재사용성을 위한 compound pattern 을 예시와 함께 설명한 글
 
 - [프론트엔드 개발에서 SOLID 원칙이란?](https://fe-developers.kakaoent.com/2023/230330-frontend-solid/)
     - 프론트엔드 개발자의 관점에서 바라본 SOLID 원칙에 관한 글
