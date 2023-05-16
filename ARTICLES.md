@@ -1,9 +1,12 @@
 > 💡 도움이 될 만한 좋은 글들을 모아놓습니다.
 
-### 👨‍💻 React Tips
+### 👨‍💻 React Tips & Snacks
 
 - [state initialize pattern](https://kentcdodds.com/blog/the-state-initializer-pattern)
-  - 변하지 않아야하는 초기값과 이를 재설정하는 패턴에 관한 소소한 팁
+    - 변하지 않아야하는 초기값과 이를 재설정하는 패턴에 관한 소소한 팁
+
+- [웹의 발전사와 React 튜토리얼 시각화 자료](https://react.gg/visualized/)
+    - 웹이 발전한 역사적인 배경을 러프하게 살펴보고 리액트의 기능과 동작 방식을 시각적으로 소개하는 자료
 
 ### 🏗 Frontend (Architecture)
 - [합성 컴포넌트로 모달 구현하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
