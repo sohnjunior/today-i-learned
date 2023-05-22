@@ -2,6 +2,9 @@
 
 ### 🌐 Web
 
+- [web 서비스 아키텍쳐 overview](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
+    - 모던 웹 서비스가 어떤 컴포넌트들로 구성되어있는지 전체적인 그림을 살펴보자.
+
 - 카카오페이지 CORS 원인을 파악하고 해결하기까지의 과정
     - [1편 - 문제정의 및 해결방법](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1/)
     - [2편 - 원인 규명하기](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2/)
