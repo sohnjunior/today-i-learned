@@ -8,6 +8,13 @@
     - stylesheet 전역 import 와 개별 import 에서 발생하는 빌드 결과의 차이, 브라우저마다 다른 캐시 정책과 그로 인해 발생한 stylesheet fetch 요청 CORS 에러 등의 문제 해결 사례
     - 원인을 찾고 해결하는 과정이 인상깊은 글이다.
 
+### 👨‍💻 React overview
+
+- [Hook 의 call index 방식을 사용하는 이유](https://overreacted.io/why-do-hooks-rely-on-call-order/)
+    - 다른 대안 (key 방식) 을 사용했을때 발생하는 이슈들을 분석해보고 `call-index` 방식이 주는 유연함을 설명해주는 글
+
+- [Hook 의 등장배경](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+    - Hook 으로 풀고자 했던 문제들을 소개하는 글
 
 ### 👨‍💻 React Tips & Snacks
 
