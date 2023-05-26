@@ -19,6 +19,9 @@
 - [Hook 의 등장배경](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
     - Hook 으로 풀고자 했던 문제들을 소개하는 글
 
+- [useState 가 올바른 renderer 와 동작하는 방법](https://overreacted.io/how-does-setstate-know-what-to-do/)
+    - react 패키지와 react-renderer (react-dom, react-dom-server 등) 와 함께 동작하는 방식을 간단히 설명한 글 (의존성 주입) 
+
 ### 👨‍💻 React Tips & Snacks
 
 - [state initialize pattern](https://kentcdodds.com/blog/the-state-initializer-pattern)
