@@ -30,6 +30,8 @@
 - [웹의 발전사와 React 튜토리얼 시각화 자료](https://react.gg/visualized/)
     - 웹이 발전한 역사적인 배경을 러프하게 살펴보고 리액트의 기능과 동작 방식을 시각적으로 소개하는 자료
 
+- [Context API 튜토리얼](https://velog.io/@velopert/react-context-tutorial)
+    - Context API 를 사용하는 몇가지 유용한 패턴에 대해서 알려주는 입문글
 
 ### 🏗 Frontend (Architecture)
 - [합성 컴포넌트로 모달 구현하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
