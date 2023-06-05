@@ -13,6 +13,9 @@
 
 ### 👨‍💻 React overview
 
+- [React 와 선언형 UI](https://blog.mathpresso.com/declarative-react-and-inversion-of-control-7b95f3fbddf5)
+    - 선언형 UI 라이브러리로서의 React 에 대한 설명글
+
 - [Hook 의 call index 방식을 사용하는 이유](https://overreacted.io/why-do-hooks-rely-on-call-order/)
     - 다른 대안 (key 방식) 을 사용했을때 발생하는 이슈들을 분석해보고 `call-index` 방식이 주는 유연함을 설명해주는 글
 
