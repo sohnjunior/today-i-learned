@@ -75,3 +75,7 @@
 - [git diff 에서 범위 연산차 .., ... 차이](https://stackoverflow.com/questions/7251477/what-are-the-differences-between-double-dot-and-triple-dot-in-git-dif/46345364#46345364)
      - trunk 배포가 아닌 경우에 유의하자. 누락되는 diff 가 발생할 수 있다.
 
+### 🧹 Coding Convention
+
+- [좋은 commit 메시지 남기기](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
+    - 의도와 side-effect, 접근 방법에 대해 서술하는 message body 와 50~78자 사이의 summary 를 제공하자
