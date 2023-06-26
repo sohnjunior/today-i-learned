@@ -51,6 +51,8 @@
     - UX 관점에서 좋은 transition 이란? 에 관한 내용을 주로 담고 있는 글
     - transition 성능을 위한 팁들 (`will-change` 속성, layout 을 유발하는 속성 피하기) 도 알려준다.
 
+- [styled-component 내부 동작 원리](https://john015.netlify.app/styled-components%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C)
+    - styled-component 가 각 컴포넌트마다 고유한 스타일을 할당하는 방법에 대한 소개글
 
 ### 📶 Network
 
