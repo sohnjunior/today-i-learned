@@ -54,6 +54,9 @@
 - [styled-component 내부 동작 원리](https://john015.netlify.app/styled-components%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%A0%EA%B9%8C)
     - styled-component 가 각 컴포넌트마다 고유한 스타일을 할당하는 방법에 대한 소개글
 
+- [border 동작이 헷갈릴 때 참고할만한 그림](https://www.csscodelab.com/html-css-border-radius-triangle/)
+    - border 를 조작해서 여러 도형 만들기
+
 ### 📶 Network
 
 - [load-balancing 알고리즘](https://samwho.dev/load-balancing/)
