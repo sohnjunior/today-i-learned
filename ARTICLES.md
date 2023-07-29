@@ -47,6 +47,10 @@
     - 프론트엔드 개발자의 관점에서 바라본 SOLID 원칙에 관한 글
     - 실무에서 적용해봄직한 예제들로 SOLID 원칙을 소개한다.
 
+- [widget driven development](https://alexei.me/blog/widget-driven-development/)
+    - 컴포넌트를 설계할 때 시도해볼만한 구조
+    - data layer 를 분리하고 container 의 역할을 widget 에 위임한다. (widget 은 하위 presentation component 로 구성)
+
 
 ### 🎨 Frontend (css)
 
