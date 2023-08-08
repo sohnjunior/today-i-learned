@@ -51,6 +51,9 @@
     - 컴포넌트를 설계할 때 시도해볼만한 구조
     - data layer 를 분리하고 container 의 역할을 widget 에 위임한다. (widget 은 하위 presentation component 로 구성)
 
+- [micro frontend 아키텍처](https://martinfowler.com/articles/micro-frontends.html)
+    - micro frontend 구조에 대한 장단점
+    - SPA 에서 micro frontend 아키텍처를 코드레벨로 구현하는 예시와 함께 설명
 
 ### 🎨 Frontend (css)
 
