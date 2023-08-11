@@ -55,6 +55,9 @@
     - micro frontend 구조에 대한 장단점
     - SPA 에서 micro frontend 아키텍처를 코드레벨로 구현하는 예시와 함께 설명
 
+- [polymorphic component](https://kciter.so/posts/polymorphic-react-component)
+    - 최신 디자인시스템 라이브러리에서 사용하고 있는 컴포넌트 디자인 패턴에 관한 글
+
 ### 🎨 Frontend (css)
 
 - [좋은 transition 구현을 위한 10가지 팁](https://joshcollinsworth.com/blog/great-transitions)
