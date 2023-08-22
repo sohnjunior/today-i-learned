@@ -58,7 +58,7 @@
 - [polymorphic component](https://kciter.so/posts/polymorphic-react-component)
     - 최신 디자인시스템 라이브러리에서 사용하고 있는 컴포넌트 디자인 패턴에 관한 글
 
-### 🎨 Frontend (css)
+### 🎨 Frontend (html & css)
 
 - [좋은 transition 구현을 위한 10가지 팁](https://joshcollinsworth.com/blog/great-transitions)
     - UX 관점에서 좋은 transition 이란? 에 관한 내용을 주로 담고 있는 글
@@ -69,6 +69,10 @@
 
 - [border 동작이 헷갈릴 때 참고할만한 그림](https://www.csscodelab.com/html-css-border-radius-triangle/)
     - border 를 조작해서 여러 도형 만들기
+
+- [img decoding 옵션 비교](https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/#images-do-not-block-rendering-of-subsequent-content)
+    - sync, async 옵션의 동작 방식에 대한 비교
+    - on-screen, off-screen, javascript 방식 여부에 따라 동작방식에 따른 취사 선택이 필요하다.
 
 ### 📶 Network
 
