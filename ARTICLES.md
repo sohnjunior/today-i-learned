@@ -39,6 +39,11 @@
 - [compound component 에서 ref 전달하는 방법](https://stackoverflow.com/questions/70202711/how-to-attach-a-compound-component-when-using-react-forward-ref-property-does-n)
     - `Object.assign` 을 사용하는 방법이 더 좋아보인다.
 
+### TypeScript
+- [tsconfig options 설명글](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
+    - tsconfig 에서 사용 가능한 옵션들을 예시와 함께 설명한 글
+
+
 ### 🏗 Frontend (Architecture)
 - [합성 컴포넌트로 모달 구현하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
     - 컴포넌트 재사용성을 위한 compound pattern 을 예시와 함께 설명한 글
