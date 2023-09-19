@@ -11,6 +11,23 @@
     - stylesheet 전역 import 와 개별 import 에서 발생하는 빌드 결과의 차이, 브라우저마다 다른 캐시 정책과 그로 인해 발생한 stylesheet fetch 요청 CORS 에러 등의 문제 해결 사례
     - 원인을 찾고 해결하는 과정이 인상깊은 글이다.
 
+
+### 💡 개발 Tips
+- [안전하게 URL read-write 하는 방법](https://www.builder.io/blog/new-url)
+
+- [state initialize pattern](https://kentcdodds.com/blog/the-state-initializer-pattern)
+    - initial props 를 이용해서 변하지 않아야하는 초기값과 이를 재설정하는 패턴에 관한 소소한 팁
+
+- [Context API 튜토리얼](https://velog.io/@velopert/react-context-tutorial)
+    - Context API 를 사용하는 몇가지 유용한 패턴에 대해서 알려주는 입문글
+
+- [compound component 에서 ref 전달하는 방법](https://stackoverflow.com/questions/70202711/how-to-attach-a-compound-component-when-using-react-forward-ref-property-does-n)
+    - `Object.assign` 을 사용하는 방법이 더 좋아보인다.
+
+- [tsconfig options 설명글](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
+    - tsconfig 에서 사용 가능한 옵션들을 예시와 함께 설명한 글
+
+
 ### 👨‍💻 React overview
 
 - [React 와 선언형 UI](https://blog.mathpresso.com/declarative-react-and-inversion-of-control-7b95f3fbddf5)
@@ -25,23 +42,8 @@
 - [useState 가 올바른 renderer 와 동작하는 방법](https://overreacted.io/how-does-setstate-know-what-to-do/)
     - react 패키지와 react-renderer (react-dom, react-dom-server 등) 와 함께 동작하는 방식을 간단히 설명한 글 (의존성 주입) 
 
-### 👨‍💻 React Tips & Snacks
-
-- [state initialize pattern](https://kentcdodds.com/blog/the-state-initializer-pattern)
-    - 변하지 않아야하는 초기값과 이를 재설정하는 패턴에 관한 소소한 팁
-
 - [웹의 발전사와 React 튜토리얼 시각화 자료](https://react.gg/visualized/)
     - 웹이 발전한 역사적인 배경을 러프하게 살펴보고 리액트의 기능과 동작 방식을 시각적으로 소개하는 자료
-
-- [Context API 튜토리얼](https://velog.io/@velopert/react-context-tutorial)
-    - Context API 를 사용하는 몇가지 유용한 패턴에 대해서 알려주는 입문글
-
-- [compound component 에서 ref 전달하는 방법](https://stackoverflow.com/questions/70202711/how-to-attach-a-compound-component-when-using-react-forward-ref-property-does-n)
-    - `Object.assign` 을 사용하는 방법이 더 좋아보인다.
-
-### TypeScript
-- [tsconfig options 설명글](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
-    - tsconfig 에서 사용 가능한 옵션들을 예시와 함께 설명한 글
 
 
 ### 🏗 Frontend (Architecture)
