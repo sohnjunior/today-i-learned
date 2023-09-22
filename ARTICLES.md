@@ -27,6 +27,8 @@
 - [tsconfig options 설명글](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
     - tsconfig 에서 사용 가능한 옵션들을 예시와 함께 설명한 글
 
+-[peer dependency](https://nodejs.org/en/blog/npm/peer-dependencies)
+    - peer dependency 의 필요성
 
 ### 👨‍💻 React overview
 
