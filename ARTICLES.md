@@ -30,6 +30,9 @@
 -[peer dependency](https://nodejs.org/en/blog/npm/peer-dependencies)
     - peer dependency 의 필요성
 
+-[type import 를 꼭 써야할까?](https://github.com/microsoft/TypeScript/issues/39861)
+    - 특별한 이유가 없다면, 컴파일러 옵션으로 대응이 되기 때문에.. 가독성을 고려해서 선택해볼까?
+
 ### 👨‍💻 React overview
 
 - [React 와 선언형 UI](https://blog.mathpresso.com/declarative-react-and-inversion-of-control-7b95f3fbddf5)
