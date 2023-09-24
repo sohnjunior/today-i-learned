@@ -70,6 +70,10 @@
 - [polymorphic component](https://kciter.so/posts/polymorphic-react-component)
     - 최신 디자인시스템 라이브러리에서 사용하고 있는 컴포넌트 디자인 패턴에 관한 글
 
+- [headless 컴포넌트 패턴](https://soobing.github.io/react/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components/)
+    - UI 와 로직 분리해서 재사용성 높이기 
+
+
 ### 🎨 Frontend (html & css)
 
 - [좋은 transition 구현을 위한 10가지 팁](https://joshcollinsworth.com/blog/great-transitions)
