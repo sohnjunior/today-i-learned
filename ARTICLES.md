@@ -59,6 +59,8 @@
 - [children에 대한 글](https://www.developerway.com/posts/react-elements-children-parents)
     - react 성능 최적화 시 고려해야할 children 사용법
 
+- [Client 컴포넌트가 여전히 SSR 되는 이유](https://github.com/reactwg/server-components/discussions/4)
+
 ### 🏗 Frontend (Architecture)
 - [합성 컴포넌트로 모달 구현하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
     - 컴포넌트 재사용성을 위한 compound pattern 을 예시와 함께 설명한 글
