@@ -1,6 +1,6 @@
 > 💡 도움이 될 만한 좋은 글들을 모아놓습니다.
 
-### 🌐 Web
+### 🌐 Web & Network
 
 - [web 서비스 아키텍쳐 overview](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
     - 모던 웹 서비스가 어떤 컴포넌트들로 구성되어있는지 전체적인 그림을 살펴보자.
@@ -11,6 +11,12 @@
     - stylesheet 전역 import 와 개별 import 에서 발생하는 빌드 결과의 차이, 브라우저마다 다른 캐시 정책과 그로 인해 발생한 stylesheet fetch 요청 CORS 에러 등의 문제 해결 사례
     - 원인을 찾고 해결하는 과정이 인상깊은 글이다.
 
+- [load-balancing 알고리즘](https://samwho.dev/load-balancing/)
+    - 다양한 로드밸런싱 알고리즘에 관한 소개글
+    - dynamic weight round robin, least-connection 등등의 방법을 시각적으로 확인할 수 있다.
+
+- [주니어 개발자를 위한 네트워크](https://yozm.wishket.com/magazine/detail/2055/)
+    - 5편의 시리즈로 구성되어있다.
 
 ### 💡 개발 Tips
 - [안전하게 URL read-write 하는 방법](https://www.builder.io/blog/new-url)
@@ -30,13 +36,10 @@
 - [peer dependency](https://nodejs.org/en/blog/npm/peer-dependencies)
     - peer dependency 의 필요성
 
-- [type import 를 꼭 써야할까?](https://github.com/microsoft/TypeScript/issues/39861)
-    - 특별한 이유가 없다면, 컴파일러 옵션으로 대응이 되기 때문에.. 가독성을 고려해서 선택해볼까?
-
 - [JS Array.every 가 빈 배열에 true 를 반환하는 이유](https://velog.io/@sehyunny/why-does-every-return-true-for-empty-array)
 
 
-### 👨‍💻 React overview
+### 👨‍💻 React 
 
 - [React 와 선언형 UI](https://blog.mathpresso.com/declarative-react-and-inversion-of-control-7b95f3fbddf5)
     - 선언형 UI 라이브러리로서의 React 에 대한 설명글
@@ -61,7 +64,10 @@
 
 - [Client 컴포넌트가 여전히 SSR 되는 이유](https://github.com/reactwg/server-components/discussions/4)
 
-### 🏗 Frontend (Architecture)
+- [React에서 어댑터 패턴 사용하기](https://javascript.plainenglish.io/how-i-use-adapter-pattern-in-reactjs-cb331e9bef0c)
+    - API 응답과 컴포넌트 인터페이스 간의 간극을 해결하는 또다른 방법
+
+### 🏗 Architecture & Clean Code
 - [합성 컴포넌트로 모달 구현하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
     - 컴포넌트 재사용성을 위한 compound pattern 을 예시와 함께 설명한 글
 
@@ -85,8 +91,10 @@
 
 - [모던 JS 반응성 구현 패턴](https://ktseo41.github.io/blog/log/patterns-for-reactivity-with-modern-vanilla-javascript.html)
 
+- [클린코드 첫걸음](https://yozm.wishket.com/magazine/detail/2415/)
+    - 클린코드 실전 입문 글
 
-### 🎨 Frontend (html & css)
+### 🎨 Frontend 
 
 - [좋은 transition 구현을 위한 10가지 팁](https://joshcollinsworth.com/blog/great-transitions)
     - UX 관점에서 좋은 transition 이란? 에 관한 내용을 주로 담고 있는 글
@@ -102,14 +110,6 @@
     - sync, async 옵션의 동작 방식에 대한 비교
     - on-screen, off-screen, javascript 방식 여부에 따라 동작방식에 따른 취사 선택이 필요하다.
 
-### 📶 Network
-
-- [load-balancing 알고리즘](https://samwho.dev/load-balancing/)
-    - 다양한 로드밸런싱 알고리즘에 관한 소개글
-    - dynamic weight round robin, least-connection 등등의 방법을 시각적으로 확인할 수 있다.
-
-- [주니어 개발자를 위한 네트워크](https://yozm.wishket.com/magazine/detail/2055/)
-    - 5편의 시리즈로 구성되어있다.
 
 ### 🧪 Testing
 
